@@ -4,3 +4,5 @@ Activity 1 ScreenShot:
 Activity 2 ScreenShot:
 ![alt text](activity_2_1.png "Activity 2 ScreenShot 1")
 ![alt text](activity_2_2.png "Activity 2 ScreenShot 2")
+Activity 3 ScreenShot:
+![alt text](activity_3.png "Activity 3 ScreenShot")
